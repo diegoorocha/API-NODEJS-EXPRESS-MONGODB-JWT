@@ -1,7 +1,7 @@
-RESUMO SOBRE A UTILIZAÇÃO DA API:
+#RESUMO SOBRE A UTILIZAÇÃO DA API:
 - API foi criada para gerenciar os equipamentos(notebook, desktop, monitor) de uma empresa;
 
-FUNÇÕES DA API:
+#FUNÇÕES DA API:
 - Registrar novo usuário administrador do sistema (responsavel pelo imput de informações no sistema);
 - Autenticação do usuário administrador do sistema;
 - Reset de senha (informar o token recebido no email);
@@ -20,8 +20,8 @@ FUNÇÕES DA API:
 - Deletar equipamentos e seus usuários;
 
 
-RESUMO SOBRE CRIAÇÃO DA API:
-API criada em NODEJS, utilizando suas dependências:
+#RESUMO SOBRE CRIAÇÃO DA API:
+###API criada em NODEJS, utilizando suas dependências:
 - Express;
 - Mongoose;
 - JWT;
@@ -29,13 +29,13 @@ API criada em NODEJS, utilizando suas dependências:
 - Handlebars (Template engine para layout/view do e-mail);
 - Utilização do mailtrap (caixa de e-mail fake) para recebimento de e-mails da API;
 
-API utiliza banco de dados NOSQL(mongodb):
+#API utiliza banco de dados NOSQL(mongodb):
 - Utiliza banco de dados online (MLAB);
 - Criação de models;
 - Relacionamento entre as coleções;
 - Consultas agregadas utilizando ($MATCH , $GROUP);
 
-INSTALAR:
+#INSTALAR:
 
 1 - Obtenha o código fonte:
 
