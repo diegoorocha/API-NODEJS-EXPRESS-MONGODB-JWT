@@ -36,15 +36,20 @@ API utiliza banco de dados NOSQL(mongodb):
 - Consultas agregadas utilizando ($MATCH , $GROUP);
 
 INSTALAR:
-1 - Obtenha o código fonte: 
+
+1 - Obtenha o código fonte:
+
 $ git clone https://github.com/diegoorocha/API-NODEJS-EXPRESS-MONGODB-JWT.git
 
 2 - Mude para o seu diretório:
+
 $ cd API-NODEJS-EXPRESS-MONGODB-JWT
 
 3 - Execute o comando YARN INSTALL, ele irá instalar todas as dependências:
+
 $ yarn install
 
 4 - Execute o comando YARN START, ele irá executar o projeto:
+
 $ yarn start
 
