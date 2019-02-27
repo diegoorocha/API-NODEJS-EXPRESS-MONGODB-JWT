@@ -3,6 +3,8 @@
 
 #FUNÇÕES DA API:
 - Registrar novo usuário administrador do sistema (responsavel pelo imput de informações no sistema);
+![criar](https://user-images.githubusercontent.com/46031435/53509484-9f177500-3a9a-11e9-81f6-a5c0bddc185c.JPG)
+
 - Autenticação do usuário administrador do sistema;
 - Reset de senha (informar o token recebido no email);
 - Esqueci minha senha (será enviado email com um token com expiração de 1 hora para alterar a senha);
