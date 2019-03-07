@@ -1,5 +1,6 @@
 # RESUMO SOBRE A UTILIZAÇÃO DA API:
-- API foi criada para gerenciar os equipamentos(notebook, desktop, monitor) de uma empresa;
+- API(EXEMPLO) foi criada para gerenciar os equipamentos(notebook, desktop, monitor) de uma empresa;
+- A criação desta API, é para fins de estudos!
 
 # RESUMO SOBRE CRIAÇÃO DA API:
 #### API criada em NODEJS, utilizando suas dependências:
